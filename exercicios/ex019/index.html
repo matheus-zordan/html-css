@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudo de Pseudoclasses e Elementos</title>
+    <style>
+        body {
+            font-size: 25px;
+        }
+        .titulos{
+            font-size: 30px;
+            color:black;
+            font-weight: bold;
+        }
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+
+        a:hover {
+            color: red;
+        }
+
+        a:active {
+            color: blue;
+        }
+
+        a:link {
+            color: green;
+        }
+
+        .teste::after {
+            content: " ←";
+        }
+
+        .teste::before {
+            content: "→ ";
+        }
+
+        .primeira-letra::first-letter {
+            font-size: 50px;
+            color: red;
+        }
+
+        .primeira-linha::first-line {
+            color: red;
+            font-size: 1.2em;
+        }
+        .listas::marker{
+            color:blue;
+        }
+        .selecione::selection{
+            background-color: yellow ;
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Pseudo Classes e Pseudo Elementos</h1>
+    <p class="titulos">Alterando links</p>
+    <a href="https://www.instagram.com/" target="_blank">Instagram</a><br>
+    <a href="https://www.twitch.tv/" target="_blank">Twitch</a><br>
+    <a href="https://www.google.com.br" target="_blank">Google</a><br>
+    <a href="https://www.facebook.com.br">Esse link está na cor verde porque ainda não foi visitado</a>
+
+    <p class="titulos">Alguns testes de peseudo elementos</p>
+    <p class="teste">Matheus é lindo</p>
+    <p class="primeira-letra">Testando a primeira letra grande</p>
+    <p>Abaixo está um teste de mexer apenas na primeira linha de um paragrafo</p>
+    <p class="primeira-linha">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet officiis vero quasi
+        laborum commodi eaque, ut autem dolore quos maxime?</p>
+    <p class="titulos">Alterando a cor dos marcadores das listas</p>
+    <ul>
+        <li class="listas">Primeiro</li>
+        <li class="listas">Segundo</li>
+        <li class="listas">Terceiro</li>
+    </ul>
+    <ol>
+        <li class="listas">Teste</li>
+        <li class="listas">Teste</li>
+        <li class="listas">Teste</li>
+    </ol>
+    <p class="titulos">Selecione o texto abaixo como se fosse copiar</p>
+    <p class="selecione">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus fugiat assumenda dolores libero perferendis deleniti!</p>
+</body>
+
+</html>
