@@ -20,5 +20,7 @@
  <a href="https://megazordan.github.io/html-css/exercicios/ex017/index.html">Executar o exercício 17</a><br>
  <a href="https://megazordan.github.io/html-css/exercicios/ex018/index.html">Executar o exercício 18</a><br>
  <a href="https://megazordan.github.io/html-css/exercicios/ex019/index.html">Executar o exercício 19</a><br>
- <a href="https://megazordan.github.io/html-css/exercicios/ex020/index.html">Executar o exercício 20</a><br>   
+ <a href="https://megazordan.github.io/html-css/exercicios/ex020/index.html">Executar o exercício 20</a><br>
+ <h3>Veja todos os exercícios feitos no Curso em Vídeo.</h3>
+ <a href="https://megazordan.github.io/html-css/desafios/modulo-01/d001/desafio1.html">Executar Desafio 1</a><br>  
   
