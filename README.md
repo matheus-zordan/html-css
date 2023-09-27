@@ -21,6 +21,16 @@
  <a href="https://megazordan.github.io/html-css/exercicios/ex018/index.html">Executar o exercício 18</a><br>
  <a href="https://megazordan.github.io/html-css/exercicios/ex019/index.html">Executar o exercício 19</a><br>
  <a href="https://megazordan.github.io/html-css/exercicios/ex020/index.html">Executar o exercício 20</a><br>
- <h3>Veja todos os exercícios feitos no Curso em Vídeo.</h3>
- <a href="https://megazordan.github.io/html-css/desafios/modulo-01/d001/desafio1.html">Executar Desafio 1</a><br>  
+ <h3>Veja todos os desafios propostos feitos.</h3>
+ <a href="https://megazordan.github.io/html-css/desafios/modulo-01/d001/desafio1.html">Executar Desafio 1</a><br>
+ <a href="https://megazordan.github.io/html-css/desafios/modulo-01/d002/desafio2.html">Executar Desafio 2</a><br>
+ <a href="https://megazordan.github.io/html-css/desafios/modulo-01/d003/desafio3.html">Executar Desafio 3</a><br>
+ <a href="https://megazordan.github.io/html-css/desafios/modulo-01/d005/desafio5.html">Executar Desafio 5</a><br>
+ <a href="https://megazordan.github.io/html-css/desafios/modulo-01/d006/desafio6.html">Executar Desafio 6</a><br>
+ <a href="https://megazordan.github.io/html-css/desafios/modulo-01/d007/desafio7.html">Executar Desafio 7</a><br>
+ <a href="https://megazordan.github.io/html-css/desafios/modulo-01/d008/index.html">Executar Desafio 8</a><br>
+ <a href="https://megazordan.github.io/html-css/desafios/modulo-01/d009/index.html">Executar Desafio 9</a><br>
+ 
+ 
+   
   
