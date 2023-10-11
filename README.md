@@ -22,10 +22,10 @@
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex019/index.html">Executar o exercício 19</a><br>
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex020/index.html">Executar o exercício 20</a><br>
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex022/fundo001.html">Executar o exercício 22 - Pt 1</a><br>
- <a href="https://matheus-zordan.github.io/html-css/exercicios/ex020/fundo002.html">Executar o exercício 22 - Pt 2</a><br>
- <a href="https://matheus-zordan.github.io/html-css/exercicios/ex020/fundo003.html">Executar o exercício 22 - Pt 3</a><br>
- <a href="https://matheus-zordan.github.io/html-css/exercicios/ex020/fundo004.html">Executar o exercício 22 - Pt 4</a><br>
- <a href="https://matheus-zordan.github.io/html-css/exercicios/ex020/fundo005.html">Executar o exercício 22 - Pt 5</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex022/fundo002.html">Executar o exercício 22 - Pt 2</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex022/fundo003.html">Executar o exercício 22 - Pt 3</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex022/fundo004.html">Executar o exercício 22 - Pt 4</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex022/fundo005.html">Executar o exercício 22 - Pt 5</a><br>
  <h3>Veja todos os desafios propostos feitos.</h3>
  <a href="https://matheus-zordan.github.io/html-css/desafios/modulo-01/d001/desafio1.html">Executar Desafio 1</a><br>
  <a href="https://matheus-zordan.github.io/html-css/desafios/modulo-01/d002/desafio2.html">Executar Desafio 2</a><br>
