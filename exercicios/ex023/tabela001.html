@@ -13,10 +13,30 @@
             width: 400px;
             border-collapse: collapse;
             border: 3px solid black;
+            height: 400px;
         }
         td{
-            border: 2px solid rgb(255, 0, 0);
+            border: 2px solid rgb(0, 0, 0);
             padding: 10px;
+            text-align: center;
+        }
+        #tabela-2{
+            width: 500px;
+            border-collapse: collapse;
+            border: 3px solid black;
+            height: 100px;
+        }
+        #esquerda{
+            text-align: left;
+        }
+        #direita{
+            text-align: right;
+        }
+        #topo{
+            vertical-align: top;
+        }
+        #baixo{
+            vertical-align: bottom;
         }
     </style>
 </head>
@@ -52,6 +72,16 @@
             <td>A4</td>
             <td>B4</td>
             <td>C4</td>
+        </tr>
+    </table>
+    <h2>Alinhamento de dados da tabela</h2>
+    <p>Para alinhar horizontalmente, utilazamos text-align. Para alinhar verticalmente, utilizamos o vertical-align.</p>
+    <table id="tabela-2">
+        <tr>
+            <td id="esquerda">Alinhado a esquerda</td>
+            <td id="direita">Alinhado a direita</td>
+            <td id="topo">Alinhado ao topo</td>
+            <td id="baixo">Alinhado a baixo</td>
         </tr>
     </table>
 </body>
