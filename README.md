@@ -38,7 +38,7 @@
  <a href="https://matheus-zordan.github.io/html-css/desafios/modulo-01/d008/index.html">Executar Desafio 8</a><br>
  <a href="https://matheus-zordan.github.io/html-css/desafios/modulo-01/d009/index.html">Executar Desafio 9</a><br>
  <a href="https://matheus-zordan.github.io/projeto-android/">Executar desafio 10</a><br>
- 
+ <a href="https://matheus-zordan.github.io/desafio-cordel/">Executar o desafio 12</a><br>
  
    
   
