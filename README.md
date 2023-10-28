@@ -1,7 +1,7 @@
 # html-css
  Curso de HTML5 e CSS3 do Curso em Vídeo
  <h3>Veja todos os exercícios feitos no Curso em Vídeo.</h3>
- <a href="https://matheus-zordan.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 1</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex001/index.html" target="_blank">Executar o exercício 1</a><br>
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex002/index.html">Executar o exercício 2</a><br>
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex003/index.html">Executar o exercício 3</a><br>
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex004/index.html">Executar o exercício 4</a><br>
