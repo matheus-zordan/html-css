@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: lightgray;
+}
+header h1{
+    padding: 10px;
+    text-align: center;
+}
+menu{
+    display: block;
+}
+header menu ul li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    background-color: gray;
+    border-top: 2px solid rgb(227, 227, 227);
+}
+header menu ul li a:hover{
+    background-color: rgb(169, 169, 169);
+}
+main{
+    width: 90vw;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+main article h2{
+    padding-bottom: 15px;
+    text-align: center;
+}
+main article p{
+    text-align: justify;
+    padding: 10px;
+    margin-bottom: 15px;
+    text-indent: 20px;
+}
