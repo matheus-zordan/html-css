@@ -28,6 +28,9 @@
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex022/fundo005.html">Executar o exercício 22 - Pt 5</a><br>
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex022/fundo006.html">Executar o exercício 22 - Pt 6</a><br>
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex022/fundo007.html">Executar o exercício 22 - Pt 7</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex023/tabela001.html">Executar o exercício 23 - Pt 1</a><br>
+
+ 
  <h3>Veja todos os desafios propostos feitos.</h3>
  <a href="https://matheus-zordan.github.io/html-css/desafios/modulo-01/d001/desafio1.html">Executar Desafio 1</a><br>
  <a href="https://matheus-zordan.github.io/html-css/desafios/modulo-01/d002/desafio2.html">Executar Desafio 2</a><br>
