@@ -44,6 +44,7 @@
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form007.html">Executar o exercício 25 - Pt 7</a><br>
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form008.html">Executar o exercício 25 - Pt 8</a><br>
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form009.html">Executar o exercício 25 - Pt 9</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex026/mq001/index.html">Executar o exercício 26 - Pt 1</a><br>
 
  
  <h3>Veja todos os desafios propostos feitos.</h3>
