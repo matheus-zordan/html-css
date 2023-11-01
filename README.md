@@ -34,6 +34,16 @@
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex023/tabela004.html">Executar o exercício 23 - Pt 4</a><br>
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex023/tabela005.html">Executar o exercício 23 - Pt 5</a><br>
  <a href="https://matheus-zordan.github.io/html-css/exercicios/ex023/tabela006.html">Executar o exercício 23 - Pt 6</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex024/iframe001.html">Executar o exercício 24</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form001.html">Executar o exercício 25 - Pt 1</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form002.html">Executar o exercício 25 - Pt 2</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form003.html">Executar o exercício 25 - Pt 3</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form004.html">Executar o exercício 25 - Pt 4</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form005.html">Executar o exercício 25 - Pt 5</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form006.html">Executar o exercício 25 - Pt 6</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form007.html">Executar o exercício 25 - Pt 7</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form008.html">Executar o exercício 25 - Pt 8</a><br>
+ <a href="https://matheus-zordan.github.io/html-css/exercicios/ex025/form009.html">Executar o exercício 25 - Pt 9</a><br>
 
  
  <h3>Veja todos os desafios propostos feitos.</h3>
